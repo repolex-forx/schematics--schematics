@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/schematics/schematics/commit/3a144be0aa50f68a4da917e8d957b924dedf9a52",
       "git:hexsha": "3a144be0aa50f68a4da917e8d957b924dedf9a52",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.1.1"
     },
     {
