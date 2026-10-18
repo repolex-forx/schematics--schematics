@@ -1,0 +1,11 @@
+{
+  "org": "schematics",
+  "repo": "schematics",
+  "versions": [
+    {
+      "commit": "3a144be0aa50f68a4da917e8d957b924dedf9a52",
+      "tag": "v2.1.1",
+      "parsed_at": "2026-10-18T02:50:15.023441+00:00"
+    }
+  ]
+}
